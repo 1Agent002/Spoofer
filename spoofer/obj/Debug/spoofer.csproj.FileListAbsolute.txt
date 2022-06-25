@@ -1,0 +1,10 @@
+C:\Users\Andy\source\repos\spoofer\spoofer\bin\Debug\spoofer.exe.config
+C:\Users\Andy\source\repos\spoofer\spoofer\bin\Debug\spoofer.exe
+C:\Users\Andy\source\repos\spoofer\spoofer\bin\Debug\spoofer.pdb
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.csproj.AssemblyReference.cache
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.Properties.Resources.resources
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.csproj.GenerateResource.cache
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.csproj.CoreCompileInputs.cache
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.exe
+C:\Users\Andy\source\repos\spoofer\spoofer\obj\Debug\spoofer.pdb
